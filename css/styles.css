@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+body {background-color: #F6ECF5;}
+body {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+h1 {color: #AE1F69;}
+h1 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+h2 {color: #F06AA8}
+h2 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+h3 {color: #F06AA8}
+h3 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+h4 {color: #F06AA8}
+h4 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+
+p {color: lightpink;}
+p {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+a:link {color: #AE1F69; text-decoration:none;}
+a:visited {color: #AE1F69}
+a:hover {color: aqua}
+a:active {color: white}
